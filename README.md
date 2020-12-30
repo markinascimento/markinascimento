@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hey 👋 
 
-My name is Marcos Vinicius, I'm from Brazil I am a computer science academic currently in the seventh period. 👨🏻‍💻
+My name is Marcos Vinicius, I'm from Brazil I am a computer science academic currently in the seventh period. 👨🏻‍💻🇧🇷
 
 🔥 Technology Enthusiast
 
