@@ -23,7 +23,7 @@ My name is Marcos Vinicius, I'm from Brazil I am a computer science academic cur
 ### 🤟 "Imagine uma nova história para sua vida e acredite nela." 💥
 
 - 📍  I'm From PB
-- 💻 Front-End at [Vsoft](https://www.vsoft.com.br/)
+- 💻 Front-End Developer
 
 Reach me out 👇🏼
 
